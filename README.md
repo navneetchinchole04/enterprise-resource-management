@@ -32,6 +32,9 @@ Open frontend/index.html using Live Server.
 Once backend is running:
 http://127.0.0.1:8000/docs
 
+## 🌐 Live API
+https://enterprise-resource-management.onrender.com/docs
+
 👤 Author
 
 Navneet Chinchole
