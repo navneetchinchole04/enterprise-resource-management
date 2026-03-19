@@ -35,10 +35,11 @@ http://127.0.0.1:8000/docs
 ## 🌐 Live API
 https://enterprise-resource-management.onrender.com/docs
 
-👤 Author
+## 👨‍💻 Author
 
-Navneet Chinchole
-
+Navneet Chinchole  
+- GitHub: https://github.com/navneetchinchole04  
+- Linkedin: https://www.linkedin.com/in/navneet-chinchole-b28b5b259/
 
 ---
 
